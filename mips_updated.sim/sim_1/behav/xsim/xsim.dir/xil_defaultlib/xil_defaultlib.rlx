@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/assembly/lab04/files/final_project/mips_updated/mips_updated.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+D:/assembly/lab04/files/final_project/mips_updated/mips_updated.srcs/sim_1/new/simulation1.sv,1731352665,systemVerilog,,,,simulation1,,uvm,,,,,,
+D:/assembly/lab04/files/final_project/mips_updated/mips_updated.srcs/sources_1/new/all_modules.sv,1731581054,systemVerilog,,D:/assembly/lab04/files/final_project/mips_updated/mips_updated.srcs/sim_1/new/simulation1.sv,,adder;all_modules;alu;aludec;controller;datapath;dmem;flopr;imem;maindec;mips;mux2;regfile;signext;sl2;top,,uvm,,,,,,

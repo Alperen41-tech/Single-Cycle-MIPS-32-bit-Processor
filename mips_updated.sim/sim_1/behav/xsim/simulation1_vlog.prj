@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../mips_updated.srcs/sources_1/new/all_modules.sv" \
+"../../../../mips_updated.srcs/sim_1/new/simulation1.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
